@@ -1,0 +1,5 @@
+# Adaptive-k prototype dependencies.
+# The alignment index is backed by a real BWT FM-index (cost depends on pattern
+# length, not on the number of occurrences), which makes full-log runs feasible.
+fm-index>=2.3
+pytest>=7
