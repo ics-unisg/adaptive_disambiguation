@@ -1,6 +1,6 @@
-# Adaptive Look-ahead for On-the-fly Event Disambiguation via Alignments
+# Adaptive Event Disambiguation via Alignments with Deferred Decisions
 
-This repository contains the Python implementation accompanying the Process Science paper *Adaptive Look-ahead for On-the-fly Event Disambiguation via Alignments*, which extends the paper *On-the-fly Event Disambiguation via Alignments*, presented at BPMDS 2026.
+This repository contains the Python implementation accompanying the Process Science paper *Adaptive Event Disambiguation via Alignments with Deferred Decisions*, which extends the paper *On-the-fly Event Disambiguation via Alignments*, presented at BPMDS 2026.
 This repository contains two algorithms: the original fixed-bound one (FBD) from the BPMDS paper and the adaptive-bound extension (ABD) introduced in the Process Science paper.
 
 ## Structure
